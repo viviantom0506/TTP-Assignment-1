@@ -1,3 +1,6 @@
-body {
-    background-color: tomato;
+
+.jumbotron{
+    height:85vh;
+    background:url(../img/food.jpg);
+    background-size: cover;
 }
